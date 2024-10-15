@@ -1,0 +1,21 @@
+{
+  "name": "custom-dns-server",
+  "version": "1.0.0",
+  "description": "creating dns server from scratch",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamShaww/custom-dns-server.git"
+  },
+  "author": "Subham Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhamShaww/custom-dns-server/issues"
+  },
+  "homepage": "https://github.com/SubhamShaww/custom-dns-server#readme"
+}
